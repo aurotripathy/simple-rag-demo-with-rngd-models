@@ -8,6 +8,7 @@
 # furiosa-ai/Qwen3-Reranker-8B	BF16	Qwen/Qwen3-Reranker-8B	>= 2026.1
 # furiosa-ai/Qwen3-32B-FP8	FP8	Qwen/Qwen3-32B-FP8	>= 2026.1
 
+# ensure you're in the right environment
 
 docker run -it --rm \
   --device /dev/rngd:/dev/rngd \
